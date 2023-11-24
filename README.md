@@ -11,8 +11,9 @@ O S.E.R.G.I.O foi desenvolvido com o objetivo de solucionar a questão do **furt
 * 1x Resistor 220 ohms;
 * 16x jumpers;
 * 1x Bateria 9v;
+* 1x Adaptador para bateria 9v com plug;
 * 1x LED para identificar o estado do dispositivo;
-* 1x Sensor de Fluxo para medir o consumo de água em litros;
+* 1x Sensor de Fluxo YS-F201 para medir o consumo de água em litros;
 * 1x Acelerômetro MPU6050 para detectar se houve alguma movimentação suspeita;
 * 1x Módulo Bluetooth HC-05 para enviar os dados para um monitor serial em outro dispositivo.
 ## 🚨 Como interpretar a LED:
